@@ -21,6 +21,8 @@ https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turb
 
 https://physics.uchicago.edu/people/profile/william-t.m.-irvine/
 
+https://www.youtube.com/watch?v=Ja886GtHlcE&ab_channel=TheUniversityofChicago
+
 https://www.youtube.com/watch?v=_18avidXxqY
 
 # Images
