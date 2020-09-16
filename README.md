@@ -4,8 +4,7 @@
 
 Research on turbulence and fluid dynamics in an extinct sponge from the Creatous period, ca 80 million years ago, Plocoscyphia (probably Plocoscyphia Roemeri?)
 
-The inspiration for this repository comes from a mix of found fossil examples of the sponge in southern Sweden and the work of an American physicist at the University of Chicago, 
-William Irvine. 
+The inspiration for this repository comes from a mix of fossil examples of the sponge found in southern Sweden, Skåne and the work of an American physicist at the University of Chicago, William T. Irvine. 
 
 Article about Irvines work in Quanta Magazine:
 https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/
