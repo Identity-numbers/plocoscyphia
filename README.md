@@ -19,6 +19,9 @@ http://www.cretaceous.de/Plocoscyphia.html
 
 # Resources on William Irvine:
 https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/
+
 https://physics.uchicago.edu/people/profile/william-t.m.-irvine/
+
+https://www.youtube.com/watch?v=_18avidXxqY
 
 # Images
