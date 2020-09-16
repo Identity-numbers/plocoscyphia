@@ -12,12 +12,12 @@ https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turb
 
 If anything of significance is found, William will be contacted and pointed to this repository.
 
-# Resources on Plocoscyphia:
+# Resources on Plocoscyphia (Roemeri):
 https://en.wikipedia.org/wiki/Plocoscyphia
 
 http://www.cretaceous.de/Plocoscyphia.html
 
-# Resources on William Irvine:
+# Resources on William T. Irvine:
 https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/
 
 https://physics.uchicago.edu/people/profile/william-t.m.-irvine/
