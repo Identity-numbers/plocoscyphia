@@ -25,4 +25,8 @@ https://www.youtube.com/watch?v=Ja886GtHlcE&ab_channel=TheUniversityofChicago
 
 https://www.youtube.com/watch?v=_18avidXxqY
 
-# Images
+# Images (MIT license)
+
+https://github.com/Identity-numbers/plocoscyphia/tree/master/Images
+
+
