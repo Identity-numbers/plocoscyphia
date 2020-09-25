@@ -12,9 +12,13 @@ https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turb
 If anything of significance is found, William will be contacted and pointed to this repository.
 
 # Resources on Plocoscyphia (Roemeri):
-https://en.wikipedia.org/wiki/Plocoscyphia
+https://en.wikipedia.org/wiki/Plocoscyphia (general)
 
-http://www.cretaceous.de/Plocoscyphia.html
+http://www.cretaceous.de/Plocoscyphia.html (images)
+
+https://www.mindat.org/taxon-4580782.html (taxonomy/classification)
+
+https://en.wikipedia.org/wiki/Hexactinellid (Class:Hexactinellid - glass sponges 450-900m depth, fused spicules, may live up to 15.000 yrs)
 
 # Resources on William T. Irvine:
 https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/
