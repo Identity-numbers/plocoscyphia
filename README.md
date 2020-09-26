@@ -31,6 +31,6 @@ https://www.youtube.com/watch?v=_18avidXxqY
 
 # Images (MIT license)
 
-https://github.com/Identity-numbers/plocoscyphia/tree/master/Images
+https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Souther Sweden, Skåne)
 
 
