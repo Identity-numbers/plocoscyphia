@@ -37,8 +37,10 @@ http://irvinelab.uchicago.edu/images/DFD2013_final.mp4 (2013)
 
 https://www.pnas.org/content/111/43/15350 (2013)
 
+http://irvinelab.uchicago.edu/papers/2010Irvine.pdf (2010)
+
 # Images (MIT license)
 
-https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Souther Sweden, Skåne)
+https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Sweden, Skåne)
 
 
