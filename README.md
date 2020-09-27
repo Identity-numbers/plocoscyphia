@@ -33,6 +33,10 @@ http://irvinelab.uchicago.edu/
 
 https://www.nature.com/articles/nphys2560 (Nature 2013, paywall article)
 
+http://irvinelab.uchicago.edu/images/DFD2013_final.mp4 (2013)
+
+https://www.pnas.org/content/111/43/15350 (2013)
+
 # Images (MIT license)
 
 https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Souther Sweden, Skåne)
