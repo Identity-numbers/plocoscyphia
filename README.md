@@ -39,6 +39,8 @@ https://www.pnas.org/content/111/43/15350 (2013)
 
 http://irvinelab.uchicago.edu/papers/2010Irvine.pdf (2010)
 
+https://www.youtube.com/channel/UCqtnr4JQQ0N26YyXjmDkVTw (Irvine Lab @ UChicago, youtube channel)
+
 # Images (MIT license)
 
 https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Sweden, Skåne)
