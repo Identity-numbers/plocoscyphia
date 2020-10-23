@@ -45,4 +45,29 @@ https://www.youtube.com/channel/UCqtnr4JQQ0N26YyXjmDkVTw (Irvine Lab @ UChicago,
 
 https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Sweden, Skåne)
 
+# Previous research papers
+
+Hydrodynamics of the leucon sponge pump
+https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0630
+
+The Sponge Pump: The Role of Current Induced Flow in the Design of the Sponge Body Plan
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027787
+
+Effects of Sediment on Glass Sponges (Porifera, Hexactinellida) and projected
+effects on Glass Sponge Reefs
+https://leyslab.weebly.com/uploads/5/4/9/4/54947267/effects_of_sediment_on_glass_sponges__porifera_hexactinellida__and_projected_effects_on_glass_sponge_reefs.pdf
+
+In situ feeding and metabolism of glass sponges (Hexactinellida, Porifera) studied ina deep temperate fjord with a remotely operated submersible
+https://aslopubs.onlinelibrary.wiley.com/doi/epdf/10.4319/lo.2007.52.1.0428
+
+Size independent selective filtration of
+ultraplankton by hexactinellid glass sponges
+https://www.int-res.com/articles/ame2006/45/a045p181.pdf
+
+Ecophysiology of glass sponge reefs by Amanda S. Kahn
+https://era.library.ualberta.ca/items/c7e5f5b6-3e82-4159-8d5b-0516ebaba930/view/b3b2b332-eaf5-4e4f-8020-8c21feb1b6ba/Kahn_Amanda_S_201605_PhD.pdf
+
+Sponge Density and Distribution Constrained by Fluid Forcing in the Deep Sea
+https://www.frontiersin.org/articles/10.3389/fmars.2020.00395/full
+
 
