@@ -45,7 +45,7 @@ https://www.youtube.com/channel/UCqtnr4JQQ0N26YyXjmDkVTw (Irvine Lab @ UChicago,
 
 https://github.com/Identity-numbers/plocoscyphia/tree/master/Images (photographer:Linus Jarbo; location found: Sweden, Skåne)
 
-# Previous research papers
+# Research papers on fluid dynamic and glass sponges
 
 Hydrodynamics of the leucon sponge pump
 https://royalsocietypublishing.org/doi/10.1098/rsif.2018.0630
